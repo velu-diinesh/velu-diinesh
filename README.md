@@ -1,37 +1,29 @@
 ## Hi, I'm Dinesh 👋
 
-Software Engineer with 4+ years of experience building enterprise applications.
+💻 Software Engineer with 4+ years building enterprise systems  
+⚡ Java | Spring Boot | AWS | Kafka | Microservices  
 
-### Tech Stack
-- Java
-- Spring Boot
-- AWS
-- Kafka
-- SQL
-- Docker
-- Microservices
+---
 
-### What I work on
-- Distributed systems
-- Payment systems
-- Event-driven architecture
-- Backend APIs
-- Database performance optimization
+### 🔥 What I Do
+- Build scalable microservices  
+- Design event-driven systems using Kafka  
+- Optimize SQL/Oracle performance  
+- Deploy cloud apps using AWS & Docker  
 
-### Connect with me
-- LinkedIn: https://linkedin.com/in/dinesh-velu19
+---
 
-<!--
-**velu-diinesh/velu-diinesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 Impact
+- Reduced latency by 38%  
+- Improved DB performance by 45%  
+- Reduced infra cost by 50%  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+Java | Spring Boot | Kafka | AWS | SQL | Docker | Microservices  
+
+---
+
+### 🔗 Connect
+LinkedIn: https://linkedin.com/in/dinesh-velu19
