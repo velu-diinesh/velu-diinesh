@@ -1,4 +1,25 @@
-## Hi there 👋
+## Hi, I'm Dinesh 👋
+
+Software Engineer with 4+ years of experience building enterprise applications.
+
+### Tech Stack
+- Java
+- Spring Boot
+- AWS
+- Kafka
+- SQL
+- Docker
+- Microservices
+
+### What I work on
+- Distributed systems
+- Payment systems
+- Event-driven architecture
+- Backend APIs
+- Database performance optimization
+
+### Connect with me
+- LinkedIn: https://linkedin.com/in/dinesh-velu19
 
 <!--
 **velu-diinesh/velu-diinesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
